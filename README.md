@@ -103,7 +103,7 @@ SET FOREIGN_KEY_CHECKS = 1;
 
 clone两项目到本地，用`IDEA`分两个窗口打开
 
-+ **前端项目**：`employee_system`
++ **前端项目**：`employee_system`，首先在终端输入`npm install`安装依赖环境
 + **后端项目**：`user_manager_system`，修改`application.properties`中的数据库配置信息为自己
 
 ## 方式一：前后端分开启动
