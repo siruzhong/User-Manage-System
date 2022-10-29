@@ -6,15 +6,15 @@
 
 **首页**
 
-![image-20210330093600458](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330093600458.png)
+![image-20210330093600458](https://gitee.com/siruzhong/images/raw/master//img/image-20210330093600458.png)
 
 **用户管理页**
 
-![image-20210330093609323](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330093609323.png)
+![image-20210330093609323](https://gitee.com/siruzhong/images/raw/master//img/image-20210330093609323.png)
 
-![image-20210330093619536](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330093619536.png)
+![image-20210330093619536](https://gitee.com/siruzhong/images/raw/master//img/image-20210330093619536.png)
 
-![image-20210330093530500](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330093530500.png)
+![image-20210330093530500](https://gitee.com/siruzhong/images/raw/master//img/image-20210330093530500.png)
 
 
 
@@ -32,13 +32,13 @@
 
 **项目名**：`employee_system`
 
-![image-20210330011101406](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330011101406.png)
+![image-20210330011101406](https://gitee.com/siruzhong/images/raw/master//img/image-20210330011101406.png)
 
 ## 后端：8082端口
 
 **项目名**：`user_manager_system`
 
-![image-20210330011207068](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330011207068.png)
+![image-20210330011207068](https://gitee.com/siruzhong/images/raw/master//img/image-20210330011207068.png)
 
 ---
 
@@ -112,7 +112,7 @@ clone两项目到本地，用`IDEA`分两个窗口打开
 
 点击主启动类`UserManagerSystemApplication`启动
 
-![image-20210330012124076](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330012124076.png)
+![image-20210330012124076](https://gitee.com/siruzhong/images/raw/master//img/image-20210330012124076.png)
 
 然后访问`localhost:8082`
 
@@ -124,11 +124,11 @@ clone两项目到本地，用`IDEA`分两个窗口打开
 npm start 
 ```
 
-![image-20210330012502699](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330012502699.png)
+![image-20210330012502699](https://gitee.com/siruzhong/images/raw/master//img/image-20210330012502699.png)
 
 然后访问`localhost:8081`即可！
 
-![image-20210330012527574](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330012527574.png)
+![image-20210330012527574](https://gitee.com/siruzhong/images/raw/master//img/image-20210330012527574.png)
 
 ## 方式二：前端打包后端启动
 
@@ -138,16 +138,16 @@ npm start
 npm run build
 ```
 
-![image-20210330012812837](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330012812837.png)
+![image-20210330012812837](https://gitee.com/siruzhong/images/raw/master//img/image-20210330012812837.png)
 
 然后会在项目根目录下生成`dist`目录，复制其中的`static`目录和`index.html`
 
-![image-20210330012910165](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330012910165.png)
+![image-20210330012910165](https://gitee.com/siruzhong/images/raw/master//img/image-20210330012910165.png)
 
 复制到后端项目的`/resourse/static`目录下
 
-![image-20210330013023629](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330013023629.png)
+![image-20210330013023629](https://gitee.com/siruzhong/images/raw/master//img/image-20210330013023629.png)
 
 然后直接启动后端主启动类`UserManagerSystemApplication`即可进入到管理界面
 
-![image-20210330013100283](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330013100283.png)
+![image-20210330013100283](https://gitee.com/siruzhong/images/raw/master//img/image-20210330013100283.png)
